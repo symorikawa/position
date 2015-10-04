@@ -14,3 +14,4 @@ Here is an example call to the function, the list must already be sorted
   console.log((position([1,3,5,6], 5)));
 </script>
 ```
+ ![screenshot](https://raw.githubusercontent.com/symorikawa/position/master/doc/Capture.PNG)
